@@ -67,8 +67,14 @@ form input[type=text] {
 
 .message .username {
     font-weight: 800;
+    margin-right: 20px;
 }
-
+.friend {
+    color: red;
+}
+.message .roomname {
+    font-size: .7em;
+}
 .message:hover {
     background-color: #ddd;
 }
